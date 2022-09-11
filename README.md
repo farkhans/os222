@@ -1,20 +1,8 @@
----
----
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+[GitHub Page](https://farkhans.github.io/os222/) ---
+[TARBALL]() ---
+[myLOG](TXT/mylog.txt) ---
+[GitHub](https://github.com/farkhans/os222)
 <br><br>
-[HOME]({{ site.baseurl }}/) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
-<br>
+<span style="color:red; font-weight:bold; font-size:larger;">This is the WAY!</span>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
-This is the way!
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+Version: {{ site.version }}
