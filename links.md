@@ -14,55 +14,35 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [One](https://www.youtube.com/watch?v=shQEXpUwaIY)<br>
+Cyber security explained briefly. The explanation is animated so it's more interesting to watch.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Two](https://www.javatpoint.com/what-is-cyber-security)<br>
+An article explains web security
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+3. [Three](https://www.youtube.com/watch?v=IF4VIC1TfoE)<br>
+A video explains one of well-known threats, Trojan Horse
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+4. [Four](https://medium.com/kode-dan-kodean/belajar-memakai-gnu-privacy-guard-gnupg-gpg-3944e19dba91)<br>
+Learn how to use GNU Privacy Guard (GnuPG). The article is in Indonesian languange.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+5. [Five](https://www.geeksforgeeks.org/difference-between-encryption-and-decryption/)<br>
+An article about encryption and decryption. The article also explains the differences between them.
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
+6. [Six](https://www.techopedia.com/definition/4041/passphrase)<br>
+A brief article about passphrase.
 
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
+7. [Seven](https://www.howtogeek.com/363735/what-is-a-checksum-and-why-should-you-care/)<br>
+An article about checksum.
 
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
+8. [Eight](https://us.norton.com/internetsecurity-malware-what-is-a-computer-virus.html#)<br>
+Another one of well-known program threats, viruses.
 
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
+9. [Nine](https://www.youtube.com/watch?v=DF8Ka8Jh0BQ)<br>
+An intermezzo about worst computer viruses.
 
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
+10. [Ten](https://www.youtube.com/watch?v=jhXCTbFnK8o)<br>
+A video about cryptography.
 
 <br>
 <hr>
