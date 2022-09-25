@@ -44,6 +44,11 @@ An intermezzo about worst computer viruses.
 10. [Ten](https://www.youtube.com/watch?v=jhXCTbFnK8o)<br>
 A video about cryptography.
 
+11. [Eleven](https://byjus.com/gate/difference-between-internal-and-external-fragmentation/#:~:text=What%20is%20Internal%20Fragmentation%3F,is%20known%20as%20internal%20fragmentation.)
+An article about difference between internal fragmentation and external fragmentation.
+
+12. [Twelve] (https://en.wikipedia.org/wiki/Filesystem_in_Userspace)
+An article about FUSE.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
