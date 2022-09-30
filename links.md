@@ -49,6 +49,12 @@ An article about difference between internal fragmentation and external fragment
 
 12. [Twelve] (https://en.wikipedia.org/wiki/Filesystem_in_Userspace)
 An article about FUSE.
+
+13. [Thirteen] (https://www.youtube.com/watch?v=KGhacRRMnDw)
+A video about pointers in C.
+
+14. [Fourteen] (https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+An article about pointers in C.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
